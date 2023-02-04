@@ -5,8 +5,11 @@
 :memo: Blog : https://velog.io/@kkookk55/ </br>
 :package: Email : kkookk55@naver.com <br>
 <br>
-방문해주셔서 감사합니다! <br>
-프론트 개발을 공부하고 있는 이정민입니다. <br>
+About me <br> 
+
+- KH정보교육원 자바(JAVA)기반 클라우드 융합 개발자 양성과정 수료 후
+- <br>
+- 현재 항해 99 부트캠프 참여 중 입니다.
 <br>
 <br>
 :technologist: Tech Stack
