@@ -2,8 +2,8 @@
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6671ff,100:9695d0&height=200&text=Welcome&fontSize=60&fontColor=ffffff&desc=to%20littlezero48's%20Github&descSize=20&descAlign=70&fontAlignY=30&descAlignY=50)
 
-:memo: Blog : https://littlezero48.tistory.com/ </br>
-:package: Email : littlezero.048@gmail.com <br>
+:memo: Blog : https://velog.io/@kkookk55/ </br>
+:package: Email : kkookk55@naver.com <br>
 <br>
 방문해주셔서 감사합니다! <br>
 프론트 개발을 공부하고 있는 이정민입니다. <br>
