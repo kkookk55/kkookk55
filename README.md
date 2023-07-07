@@ -6,11 +6,7 @@
 :package: Email : kkookk55@naver.com <br>
 <br>
 <br> 
-<strong>
-    KH정보교육원 자바(JAVA)기반 클라우드 융합 개발자 양성과정 수료 후
-    <br>
-    항해99 부트캠프 참여 중 입니다.
-</strong>
+
 <br>
 <br>
 <strong> :technologist: Tech Stack </strong>
